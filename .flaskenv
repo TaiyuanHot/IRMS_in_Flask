@@ -1,0 +1,1 @@
+$env:FLASK_APP = "IRMS_Killer.py"
